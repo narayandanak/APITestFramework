@@ -1,0 +1,8 @@
+/target/
+/results/
+/bin/
+/.classpath
+/.project
+/trace.log
+/.settings/
+/test-output/
